@@ -1,0 +1,35 @@
+_repo: A-patriot-lad-of-old-Boston_71577
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pitz, Henry C. (Henry Clarence)
+    alias: Pitz, Henry Clarence
+    birthdate: 1895
+    deathdate: 1976
+    gutenberg_agent_id: '32409'
+    url: http://www.gutenberg.org/2009/agents/32409
+creator:
+  author:
+    agent_name: Carter, Russell Gordon
+    gutenberg_agent_id: '56290'
+    url: http://www.gutenberg.org/2009/agents/56290
+description: ''
+gutenberg_issued: '2023-09-06'
+identifiers:
+  gutenberg: '71577'
+language: en
+pgterms:marc904: https://archive.org/details/patriotladofoldb00cart/page/n7/mode/2up
+pgterms:marc905: 20220110221333carter
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bThe Penn Publishing Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A patriot lad of old Boston
+url: http://www.gutenberg.org/ebooks/71577
